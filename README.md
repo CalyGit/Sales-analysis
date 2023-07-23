@@ -18,7 +18,7 @@ Corporation Favorita, a prominent Ecuadorian-based grocery retailer, faces the o
 In this project, we embark on a journey to develop a robust model that leverages the power of time series analysis to more accurately predict store sales. By harnessing historical sales data, along with additional information on promotions, store metadata, oil prices, and holiday events, our aim is to uncover hidden patterns and relationships that contribute to sales dynamics.
 
 ## Datasets
-![Static Badge](https://img.shields.io/badge/Download)
+
 
 ## File Descriptions
 
