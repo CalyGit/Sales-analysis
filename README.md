@@ -3,7 +3,6 @@
 
 Corporation Favorita, a prominent Ecuadorian-based grocery retailer, faces the ongoing challenge of accurately predicting store sales for its vast array of products. With thousands of items sold across different Favorita stores, the need for precise unit sales forecasting has become paramount.
 
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
