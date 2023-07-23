@@ -56,7 +56,7 @@ The following questions need to be addressed during the analysis:
 7. What is the difference between RMSLE, RMSE, MSE (or why is the MAE greater than all of them?)
 
 ## What do you need?
-What do you need? Nothing!😉Just download `requirements.txt` and __RUN!!__ 🎉.
+What do you need? Nothing!😉Just download `requirements.txt` and `datasets` then __RUN!!__ 🎉.
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/the1_caly)
