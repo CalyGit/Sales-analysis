@@ -43,7 +43,11 @@ The data fields in the training and test datasets are as follows:
 Before building the forecasting model, it is essential to perform data preparation tasks such as data cleaning, handling missing values, and preprocessing the features. Ensure that the dataset is appropriately formatted and ready for analysis.
 
 ## Hypothesis & Questions
+**Null Hypothesis (H0)**: There is no significant difference in sales performance among different store clusters.
 
+**Alternative Hypothesis (H1)**: There is a significant difference in sales performance among different store cluster.
+
+#
 The following questions need to be addressed during the analysis:
 
 1. Is the train dataset complete (has all the required dates)?
@@ -57,5 +61,5 @@ The following questions need to be addressed during the analysis:
 ## What do you need?
 What do you need? Nothing!😉Just download `requirements.txt` and `datasets` then __RUN!!__ 🎉.
 
-
+#
 ![Twitter Follow](https://img.shields.io/twitter/follow/the1_caly)
